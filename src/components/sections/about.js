@@ -126,7 +126,19 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'SpringBoot', 'Java', 'Node.js', 'Python'];
+  const skills = [
+    'Java',
+    'JavaScript',
+    'Typescript',
+    'React',
+    'SpringBoot',
+    'Node.js',
+    'Python',
+    'SQL',
+    'Pytorch',
+    'GraphQL',
+    'REST API',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -138,14 +150,11 @@ const About = () => {
             <p>Hello! My name is Rohaan and I enjoy creating things that live on the internet.</p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Fast-forward to today, and I've had the privilege of working at a small business,
+              &nbsp;
+              <a href="https://india.gov.in">the government, </a> and &nbsp;
+              <a href="https://www.citigroup.com/">a huge corporation</a>. My main focus these days
+              is boot-strap more full-stack projects.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
