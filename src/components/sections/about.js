@@ -130,14 +130,16 @@ const About = () => {
     'Java',
     'JavaScript',
     'Typescript',
+    'Python',
+    'Solidity',
     'React',
+    'SQL',
     'SpringBoot',
     'Node.js',
-    'Python',
-    'SQL',
     'Pytorch',
     'GraphQL',
     'REST API',
+    'Selenium',
   ];
 
   return (
