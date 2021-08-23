@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'lireddit'
+title: 'Wave-Portal'
 cover: './octoprofile.png'
 github: 'https://github.com/rohaanmalik/lireddit'
 # external: 'https://octoprofile.now.sh'
