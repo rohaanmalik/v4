@@ -137,6 +137,7 @@ const About = () => {
     'SpringBoot',
     'Node.js',
     'Pytorch',
+    'Tensorflow',
     'GraphQL',
     'REST API',
     'Selenium',
