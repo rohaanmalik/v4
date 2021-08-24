@@ -3,7 +3,7 @@ date: '3'
 title: 'Wave-Portal'
 cover: './Wave-Portal.png'
 github: 'https://github.com/rohaanmalik/my-wave-portal'
-external: 'wave-portal.vercel.app/'
+external: 'https://wave-portal.vercel.app/'
 tech:
   - JavaScript
   - Solidity
@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-I built a copy of the reddit website using all new technologies.
+Built a wave portal using Solidity & React
