@@ -1,6 +1,6 @@
 ---
-date: '3'
-title: 'Wave-Portal'
+date: '1'
+title: 'Reddit Clone'
 cover: './octoprofile.png'
 github: 'https://github.com/rohaanmalik/lireddit'
 # external: 'https://octoprofile.now.sh'

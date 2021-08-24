@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-Built a wave portal using Solidity & React
+Built a wave portal using Solidity & React on Rinkeby testnet. Drop by & say hi!
