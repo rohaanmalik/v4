@@ -108,6 +108,8 @@ const Footer = () => {
         <a href="https://github.com/bchiang7/v4">
           <div>Designed &amp; Built by Brittany </div>
 
+          <a href="https://github.com/rohaanmalik"> Modified by Rohaan</a>
+
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
               <span>
