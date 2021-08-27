@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Reddit Clone'
-cover: './octoprofile.png'
+cover: './li-reddit.png'
 github: 'https://github.com/rohaanmalik/lireddit'
 # external: 'https://octoprofile.now.sh'
 tech:
