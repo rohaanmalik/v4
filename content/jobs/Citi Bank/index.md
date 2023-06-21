@@ -1,5 +1,5 @@
 ---
-date: '20202-08-10'
+date: '2020-08-10'
 title: 'Software Engineer'
 company: 'Citi Bank'
 location: 'Mississauga'
