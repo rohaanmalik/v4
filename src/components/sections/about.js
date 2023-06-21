@@ -128,12 +128,15 @@ const About = () => {
 
   const skills = [
     'Java',
-    'JavaScript',
     'Typescript',
+    'JavaScript',
+    'React',
+    'Next.js',
     'Python',
     'Solidity',
-    'React',
+    'Pulumi',
     'SQL',
+    'MongoDB',
     'SpringBoot',
     'Node.js',
     'Pytorch',
@@ -155,8 +158,9 @@ const About = () => {
             <p>
               Fast-forward to today, and I've had the privilege of working at a small business,
               &nbsp;
-              <a href="https://india.gov.in">the government, </a> and &nbsp;
-              <a href="https://www.citigroup.com/">a huge corporation</a>. My main focus these days
+              <a href="https://india.gov.in">the government, </a> 
+              <a href="https://www.citigroup.com/">a huge corporation</a> and &nbsp; 
+              <a href="https://sx.technology/">a startup</a>. My main focus these days
               is boot-strap more full-stack projects.
             </p>
 

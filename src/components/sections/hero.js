@@ -63,10 +63,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <p>
-      I'm Computer Science 2020 Graduate from University of Toronto. Currently, I am working with{' '}
-      <a href="https://citigroup.com/" target="_blank" rel="noreferrer">
-        Citi
-      </a>{' '}
+      I'm Computer Science 2020 Graduate from University of Toronto. 
       as a Software Engineer. I am looking for a full-stack position at the moment.
     </p>
   );
