@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <p>
       I'm Computer Science 2020 Graduate from University of Toronto. 
-      as a Software Engineer. I am looking for a full-stack position at the moment.
+      I am looking for a full-stack position at the moment.
     </p>
   );
   const five = (
