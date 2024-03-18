@@ -7,6 +7,7 @@ range: 'August 2020 - Present'
 url: 'https://www.citi.net'
 ---
 
-- Developed a new approval system for an internal web application which published market commentary for external clients & internal businesses at Citi
-- Worked with teams across the board to designed and develop several server side RESTful APIs using Test Driven Development
-- Designing efficient SQL queries and writing clean & maintainable code in existing projects to develop new
+-	Engineered and implemented a highly available and reliable system for approvals, resulting in an impressive 80% improvement in equity research composition publication.
+-	Collaborated cross-functionally, architecting, and developing scalable RESTful APIs using Spring Boot and Java, effectively communicating architectural and technical challenges.
+-	Designed and optimized SQL queries, achieving a 20% increase in system speed while seamlessly integrating new functionalities and effectively diagnosing and preventing performance issues.
+-	Engaged in Agile methodologies, attending daily stand-ups, sprint planning, and retrospectives, fostering collaboration and iterative improvement.
