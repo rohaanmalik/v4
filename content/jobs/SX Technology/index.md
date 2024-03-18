@@ -1,6 +1,6 @@
 ---
 date: '2022-01-10'
-title: 'Software Engineer'
+title: 'Senior Software Engineer'
 company: 'SX Technology'
 location: 'Toronto'
 range: 'January 2022 - April 2023'

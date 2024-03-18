@@ -133,18 +133,24 @@ const About = () => {
     'React',
     'Next.js',
     'Python',
+    'AWS',
+    "React Native",
+    'Ruby on Rails',
+    'MongoDB',
+    'PostgresSQL',
+    'DynamoDB',
+    'Docker',
     'Solidity',
     'Pulumi',
     'SQL',
     'MongoDB',
     'SpringBoot',
     'Node.js',
-    'Pytorch',
-    'Tensorflow',
     'GraphQL',
     'REST API',
     'Selenium',
   ];
+  
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
